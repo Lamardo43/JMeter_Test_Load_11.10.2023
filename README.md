@@ -8,9 +8,9 @@
 
 > **[SpringApp](https://github.com/Lamardo43/JMeter_Test_Load_11.10.2023/tree/master/SpringApp)** - Папка с файлами заглушки (Java)
 
-> **[HTTP Request.jmx](https://github.com/Lamardo43/JMeter_Test_Load_11.10.2023/tree/master/HTTP Request.jmx)** - Файл скрипта
+> **[HTTP Request.jmx](https://github.com/Lamardo43/JMeter_Test_Load_11.10.2023/blob/master/HTTP%20Request.jmx)** - Файл скрипта
 
-> **[task.txt](https://github.com/Lamardo43/JMeter_Test_Load_11.10.2023/tree/master/task.txt)** - Файл задания
+> **[task.txt](https://github.com/Lamardo43/JMeter_Test_Load_11.10.2023/blob/master/task.txt)** - Файл задания
 
 
 ## **Заглушка**
